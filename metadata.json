@@ -1,0 +1,5 @@
+{
+  "name": "AI News Sentiment Tracker",
+  "description": "A web application that fetches the latest news about Artificial Intelligence and performs sentiment analysis, providing a daily snapshot of the industry's tone.",
+  "requestFramePermissions": []
+}
